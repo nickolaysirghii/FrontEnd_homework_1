@@ -1,0 +1,42 @@
+#head{
+    
+    border: 4px double red;
+    padding: 1px 30%;
+    margin: 20px 200px;
+
+}
+.blog{
+    border: 4px double red;
+    margin: 40px;
+    padding: 20px;
+}
+body{
+    background-color: rgb(7, 41, 234);
+}
+img{
+    width: 200px;
+    height: 120px;
+}
+span{
+    color: rgb(68, 0, 255);
+    font-size: 30px;
+}
+.bottom_img{
+    height: 20px;
+    width: 20px;
+}
+#bottom{
+    padding: 1% 45% ;
+}
+#color_div1{
+    background-color: rgb(212, 80, 80)
+}
+#color_div2{
+    background-color: rgb(53, 205, 101);
+}
+#color_div3{
+    background-color: rgb(127, 240, 255);
+}
+#title{
+    color: antiquewhite;
+}
